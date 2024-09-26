@@ -1,13 +1,13 @@
 import Footer from "./components/footer";
 import Navbar from "./components/Navbar";
-import TodoList from "./components/TodoList";
+import MyFormData from "./components/MyFormData";
 
 export default function App() {
   return (
     <>
       <Navbar />
       <main className="grow">
-        <TodoList />
+        <MyFormData />
       </main>
       <Footer />
     </>
