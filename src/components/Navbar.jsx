@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <div className="container">
+    <div className="base-container">
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
